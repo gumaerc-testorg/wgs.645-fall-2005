@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of required readings for the course, required
+  music, and details on the reading and listening assignments for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8dc47daf-fcb6-ef07-82d9-f04bf09f9beb
 ---
