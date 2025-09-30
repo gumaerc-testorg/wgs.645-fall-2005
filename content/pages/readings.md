@@ -383,9 +383,9 @@ Harker, Dave. _Fakesong: The Manufacture of British 'folksong' 1700 to the Prese
   
 Judge, Roy. "Mary Neal and the Esperance Morris." _Folk Music Journal_ 5, no. 5 (1989): 543-91.  
   
-"[A Nest of Singing Birds](http://www.mustrad.org.uk/articles/m_sands.htm)"  
+"{{% resource_link "7e95c402-9a5e-4ef1-8f43-ad2340fd6090" "A Nest of Singing Birds" %}}"  
   
-"[Cecil Sharp in America](http://www.mustrad.org.uk/articles/sharp.htm)"  
+"{{% resource_link "82a517e6-535b-4b71-841b-8294891dfd45" "Cecil Sharp in America" %}}"  
   
 Lee, Katie. "Some Experiences of a Folk-Song Collector." _Journal_ _of the Folk-Song Society_ I, no. 1 (1899): 7-13.  
   
@@ -449,11 +449,11 @@ McKim, Lucy \[Garrison\]. "Open Letter to John Sullivan Dwight." _Dwight's Journ
   
 Stowe, Harriet Beecher. "Sojourner Truth, the Libyan Sibyl." _Atlantic Monthly_ 11 (April, 1863): 473-481.  
   
-———. Selections from _Uncle Tom's Cabin_ (1852). A version of [_Uncle Tom's Cabin_](http://www.gutenberg.org/etext/203) is available from Project Gutenberg.  
+———. Selections from _Uncle Tom's Cabin_ (1852). A version of {{% resource_link "a6ed1b1e-bbc2-44bf-a55e-980bc8800f43" "_Uncle Tom's Cabin_" %}} is available from Project Gutenberg.  
   
 Painter, Nell Irvin. _Sojourner Truth_. New York, NY: W.W. Norton & Co., 1997, pp. 151-57 and 162-3. ISBN: 9780393317084.  
   
-Allen, William Francis. [_Slave Songs of the United States_](http://docsouth.unc.edu/church/allen/menu.html). Edited by Charles Pickard Ware and Lucy McKim Garrison.  
+Allen, William Francis. {{% resource_link "97ad4fa5-370b-4da1-bd33-e04d2240eea1" "_Slave Songs of the United States_" %}}. Edited by Charles Pickard Ware and Lucy McKim Garrison.  
 Read the introduction. We will sing selected songs, including "Michael, Row Your Boat Ashore," "O Daniel," "Roll, Jordan Roll, "Poor Rosy, Poor Gal," and "Nobody Knows," and "Down to the River and Pray".  
   
 Dyer, Oliver. "What I have Seen about New York." _The Independent_ 20 (October 8, 1868). (A Lecture by Oliver Dyer.)  
@@ -470,7 +470,7 @@ Moore, Ella Sheppard. "The Jubilee Singers." _Fisk University News_ (1911): 41-5
   
 Albert, Octavia V. Rogers. _The House of Bondage_, 1890. New York, NY: Oxford University Press, 1988, Frances Foster's Introduction: xxvii-xliii, pp. 1-48 of the novel. ISBN: 9780195052633. (Reprinted with introduction by Frances Foster Smith.)  
   
-Stowe, Harriet Beecher. Excerpts from _Uncle Tom's Cabin_ (1852). A version of [_Uncle Tom's Cabin_](http://www.gutenberg.org/etext/203) is available from Project Gutenberg.  
+Stowe, Harriet Beecher. Excerpts from _Uncle Tom's Cabin_ (1852). A version of {{% resource_link "a6ed1b1e-bbc2-44bf-a55e-980bc8800f43" "_Uncle Tom's Cabin_" %}} is available from Project Gutenberg.  
   
 Williams, Sherley Anne. "Meditations on History." In _Midnight Birds._ Edited by Mary Helen, Washington. New York, NY: Anchor Books, 1989. ISBN: 9780385260152.  
   
@@ -548,7 +548,7 @@ Schuller, Gunther. _Early Jazz_. New York, NY: Oxford University Press, 1968, pp
   
 Hine, Darlene, Elsa Barkley Brown, and Rosalyn Terborg-Penn, eds. _Black Women in America. An Historical Encyclopedia._ 2 vols. Bloomington, IN: Indiana University Press, 1993, 1994, entries on "blues". ISBN: 9780253327741.  
   
-Entry on Willie Mae Thornton in [The Handbook of Texas Online](http://www.tshaonline.org/handbook/online).  
+Entry on Willie Mae Thornton in {{% resource_link "c9cf0bf7-16c5-43d5-ace1-727ec502a8df" "The Handbook of Texas Online" %}}.  
   
 Gaar, Gillian G. _She's a Rebel. The History of Women in Rock and Roll_. Seattle, WA: Seal Press, 1992, pp. 1-7.
 
@@ -626,7 +626,7 @@ Abrahams, Roger D., and Almeda Riddle. _A Singer and Her Songs: Almeda Riddle's 
   
 Cochran, Robert B. ""All the Songs in the World": The Story of Emma Dusenbury." _Arkansas Historical Quarterly_ 44, no. 1 (Spring 1985): 3-15.  
   
-Eaker, Susan. "[Appalachian Women and America's First Instrument](http://www.oldtimeherald.org/archive/back_issues/volume-8/8-2/full-banjo-on-her-knee.html)." _The Old-Time Herald_ 8, no. 2.
+Eaker, Susan. "{{% resource_link "f5bd1e2c-16e4-4be9-aaad-2caae8a9a363" "Appalachian Women and America's First Instrument" %}}." _The Old-Time Herald_ 8, no. 2.
 
 
 {{< tdclose >}}
@@ -706,7 +706,7 @@ Sweeney, Margaret. "Mrs, Ernest Shope: A Memorable Informant." _The Kentucky Fol
   
 Boulez, Pierre. "The Vestal Virgin and the Fire-stealer: memory, creation, and authenticity." _Early Music_ (August 1990): 355-358.  
   
-Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction" (1936). A version of "[The Work of Art in the Age of Mechanical Reproduction](http://bid.berkeley.edu/)" is available online.  
+Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction" (1936). A version of "{{% resource_link "f5963f52-0395-48fc-8589-537d8ddd40fa" "The Work of Art in the Age of Mechanical Reproduction" %}}" is available online.  
   
 Southern Mosaic: The John and Ruby Lomax 1939 Southern States Recording Trip. Songs collected in Texas, Alabama, Florida, S. Carolina, Louisiana, Arkansas, Mississippi, Virginia, 1939. Southern Mosaic. Fieldnotes. Section 17: Livingston, Alabama and vicinity, May 26-30. (on Ruby Pickens Tartt, Vera Hall, Dock Reed etc.) in the Library of Congress American Memory data base. (Type in "Southern Mosaic" and "John Lomax" to arrive there quickly.)
 
